@@ -1,3 +1,6 @@
+// Name: Read Rafi
+// Project 3
+
 #include "PlayerStream.hpp"
 
 VectorPlayerStream::VectorPlayerStream(const std::vector<Player>& players)

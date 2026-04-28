@@ -1,3 +1,6 @@
+// Name: Read Rafi
+// Project 3
+
 #include "Player.hpp"
 
 Player::Player(const std::string& name, const size_t& level)
